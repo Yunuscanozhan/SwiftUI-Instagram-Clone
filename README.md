@@ -28,4 +28,4 @@ This project was created as a practice project to understand:
 
 ---
 
-🚀 Built with SwiftUI
+Yunus Özhan 2026
